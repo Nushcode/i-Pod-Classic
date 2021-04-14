@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/i-Pod-Classic/static/css/main.c1d9838c.chunk.css",
+    "main.js": "/i-Pod-Classic/static/js/main.a34829f4.chunk.js",
+    "main.js.map": "/i-Pod-Classic/static/js/main.a34829f4.chunk.js.map",
+    "runtime-main.js": "/i-Pod-Classic/static/js/runtime-main.5efcbcdf.js",
+    "runtime-main.js.map": "/i-Pod-Classic/static/js/runtime-main.5efcbcdf.js.map",
+    "static/js/2.4667406a.chunk.js": "/i-Pod-Classic/static/js/2.4667406a.chunk.js",
+    "static/js/2.4667406a.chunk.js.map": "/i-Pod-Classic/static/js/2.4667406a.chunk.js.map",
+    "index.html": "/i-Pod-Classic/index.html",
+    "precache-manifest.3ec3b4b8dd3efb26958bf0b60e691427.js": "/i-Pod-Classic/precache-manifest.3ec3b4b8dd3efb26958bf0b60e691427.js",
+    "service-worker.js": "/i-Pod-Classic/service-worker.js",
+    "static/css/main.c1d9838c.chunk.css.map": "/i-Pod-Classic/static/css/main.c1d9838c.chunk.css.map",
+    "static/js/2.4667406a.chunk.js.LICENSE.txt": "/i-Pod-Classic/static/js/2.4667406a.chunk.js.LICENSE.txt",
+    "static/media/AudioTapes.png": "/i-Pod-Classic/static/media/AudioTapes.092c7d83.png",
+    "static/media/Besomorph  Silent Child  IDGAF.png": "/i-Pod-Classic/static/media/Besomorph  Silent Child  IDGAF.a561f22a.png",
+    "static/media/Besomorph  Silent Child  IDGAF.mp3": "/i-Pod-Classic/static/media/Besomorph  Silent Child  IDGAF.e5374a4d.mp3",
+    "static/media/Billie Eilish  Six Feet Under.png": "/i-Pod-Classic/static/media/Billie Eilish  Six Feet Under.9365a8e7.png",
+    "static/media/Billie Eilish  Six Feet Under.mp3": "/i-Pod-Classic/static/media/Billie Eilish  Six Feet Under.9cd2a7cc.mp3",
+    "static/media/BlueCubes.png": "/i-Pod-Classic/static/media/BlueCubes.a4aaa9f2.png",
+    "static/media/BlueJelly.png": "/i-Pod-Classic/static/media/BlueJelly.5bb3fcdf.png",
+    "static/media/Confetti  Ghost.png": "/i-Pod-Classic/static/media/Confetti  Ghost.48226638.png",
+    "static/media/Confetti  Ghost.mp3": "/i-Pod-Classic/static/media/Confetti  Ghost.6f01b1b3.mp3",
+    "static/media/DHARIA  Sugar  Brownies.mp3": "/i-Pod-Classic/static/media/DHARIA  Sugar  Brownies.45dcb47f.mp3",
+    "static/media/DHARIA  Sugar  Brownies.png": "/i-Pod-Classic/static/media/DHARIA  Sugar  Brownies.56c55738.png",
+    "static/media/Jony Love Your Voice.png": "/i-Pod-Classic/static/media/Jony Love Your Voice.1ef22403.png",
+    "static/media/Jony Love Your Voice.mp3": "/i-Pod-Classic/static/media/Jony Love Your Voice.a2a2fa83.mp3",
+    "static/media/game.jpg": "/i-Pod-Classic/static/media/game.941e51f3.jpg",
+    "static/media/settings.png": "/i-Pod-Classic/static/media/settings.994f8bd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5efcbcdf.js",
+    "static/js/2.4667406a.chunk.js",
+    "static/css/main.c1d9838c.chunk.css",
+    "static/js/main.a34829f4.chunk.js"
+  ]
+}
